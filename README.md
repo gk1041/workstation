@@ -11,6 +11,7 @@ Info on setting up my workstation, apps, config, etc.
 6. [Spotify](https://www.spotify.com/us/)
 7. [SQL Pro](https://www.sequelpro.com/)
 8. [RecordIt](http://recordit.co/)
+9. [Clipy](https://clipy-app.com/)
 
 # Terminal
 
