@@ -19,6 +19,8 @@ Info on setting up my workstation, apps, config, etc.
  1. [Oh My ZSH](http://ohmyz.sh/)
     * Add auto suggestions plugin, follow steps using _Oh My ZSH_ method here [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
  2. Add RC configs
+    * [.bashrc](terminal/bashrc.sh)
+    * [.zshrc](terminal/zshrc.sh)
  3. Scrollable vim
     * Preferences->Advanced->Mouse->Scroll wheel sends arrow keys when in an alternate screen mode
 
