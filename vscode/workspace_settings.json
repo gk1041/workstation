@@ -1,12 +1,8 @@
 {
-    "atomKeymap.promptV3Features": true,
-    "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": false,
     "editor.formatOnSave": false,
-    "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "prettier.singleQuote": true,
-    "eslint.autoFixOnSave": false,
     "gitlens.gitExplorer.files.layout": "tree",
     "gitlens.advanced.messages": {
         "suppressCommitHasNoPreviousCommitWarning": false,
@@ -18,18 +14,12 @@
         "suppressUpdateNotice": false,
         "suppressWelcomeNotice": true
     },
-    "workbench.colorTheme": "Operator Mono Dark Theme",
     "editor.tabSize": 4,
     "editor.insertSpaces": false,
     "prettier.tabWidth": 4,
     "prettier.useTabs": true,
     "prettier.arrowParens": "always",
     "prettier.bracketSpacing": true,
-    "[yaml]": {
-        "editor.insertSpaces": false,
-        "editor.tabSize": 4
-    },
-    "html.format.endWithNewline": true,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": false,
     "less.lint.duplicateProperties": "warning",
