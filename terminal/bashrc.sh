@@ -4,7 +4,7 @@
 export CLICOLOR=1
 
 # source SOCi rc
-source ~/.socirc
+source ~/.privaterc
 
 # functions
 getpid () {
@@ -21,13 +21,14 @@ getpid () {
 # actions
 alias ls='ls -l'
 alias ll='ls -al'
+alias simpleserver='python -m SimpleHTTPServer 3000'
 alias ebash='vim ~/.bashrc'
 alias rbash='source ~/.bashrc'
-alias simpleserver='python -m SimpleHTTPServer 3000'
+alias epriv='vim ~/.privaterc'
 
 # locations
-alias dev='cd ~/tmpDesk/dev'
-alias des='cd ~/tmpDesk'
+alias dev='cd ~/Desktop/dev'
+alias des='cd ~/Desktop'
 
 # customize bash prefix
 export PATH=~/bin:$PATH
