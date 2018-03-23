@@ -1,0 +1,24 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "workbench.colorTheme": "Operator Mono Dark Theme",
+    "eslint.autoFixOnSave": false,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": true,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile",
+    "gitlens.keymap": "alternate",
+    "html.format.endWithNewline": true,
+    "gitlens.gitExplorer.files.layout": "tree"
+}
