@@ -31,32 +31,39 @@ Info on setting up my workstation, apps, config, etc.
 
 ## Extensions
 
-1. Atom Keymap
-2. Auto Close Tag
-3. Beautify ???
-4. Bookmarks
-5. Bower
-6. Code Runner ???
-7. ESLint
-8. Find all references ???
-9. Git History (git log)
-10. Git Lens -- git blame annotation...
-11. Git Project Manager
-12. gitignore ???
-13. Hg ???
-14. Import Cost
-15. Markdown Preview Github Styling
-16. mssql
-17. npm intellisense
-18. OperatorMonoDarkTheme
-19. Partial Diff
-20. Path Intellisense
-21. PHP Debug
-22. PHP Intellisense
-23. PHP Extension Pack
-24. Prettier - Code Formatter
-25. TODO Highlight
-26. Version Lens
+### Productivity Tools
+- OperatorMonoDarkTheme
+- TODO Highlight
+- Partial Diff
+- Atom Keymap
+- Copy file name
+- Bookmarks
+- Bracket Pair Colorizer
+- Auto Close Tag
+- Auto Rename Tag
+
+### Collaboration
+- VS Live Share
+- Git History
+- Git Project Manager
+- Git Lens
+
+### Front-end
+- Less IntelliSense
+- JavaScript (ES6) code snippets
+- npm Intellisense
+- Version Lens
+- Path Intellisense
+- Prettier - Code Formatter
+- ESLint
+- Import Cost
+
+### Back-end
+- mssql
+- PHP Debug
+- PHP IntelliSense
+- SQL Beautify
+
 
 ## Editor Specific
 
