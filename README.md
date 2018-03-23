@@ -26,8 +26,8 @@ Info on setting up my workstation, apps, config, etc.
 
 ## .vscode Files
 
-1. launch.json
-2. settings.json
+1. User: [settings.json](vscode/user_settings.json)
+2. Workspace: [settings.json](vscode/workspace_settings.json)
 
 ## Extensions
 
