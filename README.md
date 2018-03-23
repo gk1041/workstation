@@ -41,7 +41,7 @@ Info on setting up my workstation, apps, config, etc.
 - Partial Diff
 - Atom Keymap
 - Copy file name
-- Bookmarks
+- Numbered Bookmarks
 - Bracket Pair Colorizer
 - Auto Close Tag
 - Auto Rename Tag
