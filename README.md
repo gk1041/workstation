@@ -21,6 +21,7 @@ Info on setting up my workstation, apps, config, etc.
  2. Add RC configs
     * [.bashrc](terminal/bashrc.sh)
     * [.zshrc](terminal/zshrc.sh)
+    * [.vimrc](terminal/vimrc.sh)
  3. Scrollable vim
     * Preferences->Advanced->Mouse->Scroll wheel sends arrow keys when in an alternate screen mode
 
