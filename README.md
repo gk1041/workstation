@@ -3,15 +3,16 @@ Info on setting up my workstation, apps, config, etc.
 
 # Apps
 
-1. [iTerm2](https://www.iterm2.com/downloads.html)
-2. [VSCode](https://code.visualstudio.com/download)
-3. [Chrome](https://www.google.com/chrome)
-4. [Boostnote](https://boostnote.io/)
-5. [Slack](https://slack.com/)
-6. [Spotify](https://www.spotify.com/us/)
-7. [SQL Pro](https://www.sequelpro.com/)
-8. [RecordIt](http://recordit.co/)
-9. [Clipy](https://clipy-app.com/)
+- [iTerm2](https://www.iterm2.com/downloads.html)
+- [VSCode](https://code.visualstudio.com/download)
+- [Chrome](https://www.google.com/chrome)
+- [Boostnote](https://boostnote.io/)
+- [Slack](https://slack.com/)
+- [Spotify](https://www.spotify.com/us/)
+- [SQL Pro](https://www.sequelpro.com/)
+- [RecordIt](http://recordit.co/)
+- [Clipy](https://clipy-app.com/)
+- [Skitch](https://evernote.com/products/skitch)
 
 # Terminal
 
