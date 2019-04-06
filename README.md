@@ -1,4 +1,4 @@
-# workstation
+# Workstation
 Info on setting up my workstation, apps, config, etc.
 
 # Apps
@@ -14,6 +14,10 @@ Info on setting up my workstation, apps, config, etc.
 - [GIPHY](https://giphy.com/apps/giphycapture) 
 - [Clipy](https://clipy-app.com/)
 - [Skitch](https://evernote.com/products/skitch)
+- [Postman](https://www.getpostman.com/downloads)
+- [PhpStorm](https://www.jetbrains.com/phpstorm/download/#section=mac)
+
+---
 
 # Terminal
 
@@ -26,6 +30,7 @@ Info on setting up my workstation, apps, config, etc.
  3. Scrollable vim
     * Preferences->Advanced->Mouse->Scroll wheel sends arrow keys when in an alternate screen mode
 
+---
 
 # VS Code
 
@@ -43,7 +48,8 @@ Info on setting up my workstation, apps, config, etc.
 - [Markdown to JIRA](https://marketplace.visualstudio.com/items?itemName=chintans98.markdown-jira)
 - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
-- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) Not just colorize CSV and TSV but you can also query these files in a SQL like language, pretty nifty if you don't have Excel.
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+  - Not just colorize CSV and TSV but you can also query these files in a SQL like language, pretty nifty if you don't have Excel.
 - [Scope Bar](https://marketplace.visualstudio.com/items?itemName=amos402.scope-bar)
 
 ### Collaboration
@@ -59,6 +65,17 @@ Info on setting up my workstation, apps, config, etc.
 ## Editor Specific
 
 Article for using Fira code (mimic Operator Mono) https://medium.com/@zamamohammed/multiple-fonts-alternative-to-operator-mono-in-vscode-7745b52120a0
+
+---
+
+# PhpStorm
+
+## Plugins
+
+- [Material Theme UI](https://github.com/equinusocio/material-theme)
+  - `Material Oceanic` looks pretty cool.
+
+---
 
 # Chrome
 
