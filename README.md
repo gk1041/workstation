@@ -37,37 +37,23 @@ Info on setting up my workstation, apps, config, etc.
 ## Extensions
 
 ### Productivity Tools
-- OperatorMonoDarkTheme
-- TODO Highlight
-- Partial Diff
-- Atom Keymap
-- Copy file name
-- Numbered Bookmarks
-- Bracket Pair Colorizer
-- Auto Close Tag
-- Auto Rename Tag
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Markdown to JIRA](https://marketplace.visualstudio.com/items?itemName=chintans98.markdown-jira)
+- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+- [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) Not just colorize CSV and TSV but you can also query these files in a SQL like language, pretty nifty if you don't have Excel.
+- [Scope Bar](https://marketplace.visualstudio.com/items?itemName=amos402.scope-bar)
 
 ### Collaboration
-- VS Live Share
-- Git History
-- Git Project Manager
-- Git Lens
+- [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ### Front-end
-- Less IntelliSense
-- JavaScript (ES6) code snippets
-- npm Intellisense
-- Version Lens
-- Path Intellisense
-- Prettier - Code Formatter
-- ESLint
-- Import Cost
-
-### Back-end
-- mssql
-- PHP Debug
-- PHP IntelliSense
-- SQL Beautify
+- [Less IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-less)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 
 
 ## Editor Specific
@@ -78,13 +64,13 @@ Article for using Fira code (mimic Operator Mono) https://medium.com/@zamamohamm
 
 ## Extensions
 - Hypothes.is - Note taking app to take notes in browser
-  - https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=en
+  - [Extension Link](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=en)
 - JSON Formatter - Automatically formats JSON when returned on blank page
-  - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en
+  - [Extension Link](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
 - The Great Suspender - Decrease chrome memory usage by putting pages to sleep when inactive
-  - https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en
+  - [Extension Link](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en)
 - Video Speed Controller - Allows you to set playback speed of videos even when no controls provided
-  - https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
+  - [Extension Link](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
 - Stylus - Allows you to download themes for pages, e.g. GitHub Dark
-  - https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
+  - [Extension Link](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
   - For this you need to download styles here are some good repos: https://github.com/StylishThemes
