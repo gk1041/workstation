@@ -10,7 +10,8 @@ Info on setting up my workstation, apps, config, etc.
 - [Slack](https://slack.com/)
 - [Spotify](https://www.spotify.com/us/)
 - [SQL Pro](https://www.sequelpro.com/)
-- [RecordIt](http://recordit.co/)
+- [RecordIt](http://recordit.co/) _*NOTE:* This saves you videos to a server._
+- [GIPHY](https://giphy.com/apps/giphycapture) 
 - [Clipy](https://clipy-app.com/)
 - [Skitch](https://evernote.com/products/skitch)
 
@@ -72,3 +73,18 @@ Info on setting up my workstation, apps, config, etc.
 ## Editor Specific
 
 Article for using Fira code (mimic Operator Mono) https://medium.com/@zamamohammed/multiple-fonts-alternative-to-operator-mono-in-vscode-7745b52120a0
+
+# Chrome
+
+## Extensions
+- Hypothes.is - Note taking app to take notes in browser
+  - https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=en
+- JSON Formatter - Automatically formats JSON when returned on blank page
+  - https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en
+- The Great Suspender - Decrease chrome memory usage by putting pages to sleep when inactive
+  - https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en
+- Video Speed Controller - Allows you to set playback speed of videos even when no controls provided
+  - https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
+- Stylus - Allows you to download themes for pages, e.g. GitHub Dark
+  - https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
+  - For this you need to download styles here are some good repos: https://github.com/StylishThemes
