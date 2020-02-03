@@ -17,6 +17,34 @@ getpid () {
   fi
 }
 
+# git fetch remote
+gfr() {
+  if [ $# -eq 0 ]
+    then
+      echo "Git command to fetch remote branch in following way:"
+      echo "Usage: gfr <remote>:<branchname>"
+  else
+    remoteWithBranch=$1
+    remote="$(cut -d':' -f1 <<<"$remoteWithBranch")"
+    branch="$(cut -d':' -f2 <<<"$remoteWithBranch")"
+    git fetch $remote $branch
+  fi
+}
+
+# git fetch remote and checkout
+gfrc() {
+  if [ $# -eq 0 ]
+    then
+      echo "Git command to fetch remote branch and check it out in following way:"
+      echo "Usage: gfrc <remote>:<branchname>"
+  else
+    remoteWithBranch=$1
+    remote="$(cut -d':' -f1 <<<"$remoteWithBranch")"
+    branch="$(cut -d':' -f2 <<<"$remoteWithBranch")"
+    git fetch $remote $branch
+    git checkout $branch
+  fi
+}
 
 # actions
 alias ls='ls -l'
