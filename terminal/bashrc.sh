@@ -17,6 +17,17 @@ getpid () {
   fi
 }
 
+
+# actions
+alias ls='ls -l'
+alias ll='ls -al'
+alias simpleserver='python -m SimpleHTTPServer 3000'
+alias ebash='vim ~/.bashrc'
+alias rbash='source ~/.bashrc'
+alias epriv='vim ~/.privaterc'
+alias prdiff="git diff --stat upstream/master..HEAD"
+alias prdiff_no_test="git diff --stat upstream/master..HEAD ':!spec'"
+
 # git fetch remote
 gfr() {
   if [ $# -eq 0 ]
@@ -46,20 +57,17 @@ gfrc() {
   fi
 }
 
-# actions
-alias ls='ls -l'
-alias ll='ls -al'
-alias simpleserver='python -m SimpleHTTPServer 3000'
-alias ebash='vim ~/.bashrc'
-alias rbash='source ~/.bashrc'
-alias epriv='vim ~/.privaterc'
-
 # locations
 alias dev='cd ~/Desktop/dev'
 alias des='cd ~/Desktop'
+alias sites='cd ~/Sites'
 
 # customize bash prefix
 export PATH=~/bin:$PATH
+
+
+
+##########################################################
 
 # echo that .bashrc ran
 echo "### .bashrc refreshed! ###"

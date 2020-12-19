@@ -3,19 +3,32 @@ Info on setting up my workstation, apps, config, etc.
 
 # Apps
 
+## Coding
 - [iTerm2](https://www.iterm2.com/downloads.html)
 - [VSCode](https://code.visualstudio.com/download)
-- [Chrome](https://www.google.com/chrome)
+- [PhpStorm](https://www.jetbrains.com/phpstorm/download/#section=mac)
+- [DBeaver](https://dbeaver.io/)
+- [Insomnia](https://insomnia.rest/graphql/)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop) // v2.4.0.0
+- [Postman](https://www.getpostman.com/downloads)
+
+## Planning and UX
+- [Figma](https://www.figma.com/downloads/)
+- [Miro](https://miro.com/apps/)
 - [Boostnote](https://boostnote.io/)
-- [Slack](https://slack.com/)
-- [Spotify](https://www.spotify.com/us/)
-- [SQL Pro](https://www.sequelpro.com/)
-- [RecordIt](http://recordit.co/) _*NOTE:* This saves you videos to a server._
-- [GIPHY](https://giphy.com/apps/giphycapture) 
+- [Remember the Milk](https://www.rememberthemilk.com/services/)
+
+## Productivity
 - [Clipy](https://clipy-app.com/)
 - [Skitch](https://evernote.com/products/skitch)
-- [Postman](https://www.getpostman.com/downloads)
-- [PhpStorm](https://www.jetbrains.com/phpstorm/download/#section=mac)
+- [GIPHY](https://giphy.com/apps/giphycapture)
+- [Spotify](https://www.spotify.com/us/)
+
+## Biz Stuff
+- [Slack](https://slack.com/)
+- [Krisp](https://krisp.ai/)
+- [Chrome](https://www.google.com/chrome)
+- [Backup and Sync from Google](https://www.google.com/drive/download/)
 
 ---
 

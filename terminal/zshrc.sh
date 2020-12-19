@@ -61,6 +61,8 @@ ZSH_THEME="wedisagree"
 plugins=(
   git
   zsh-autosuggestions
+  docker
+  docker-compose
 )
 
 source $ZSH/oh-my-zsh.sh

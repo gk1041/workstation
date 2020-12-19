@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "Operator Mono Lig",
   "gitlens.advanced.messages": {
     "suppressCommitHasNoPreviousCommitWarning": false,
     "suppressCommitNotFoundWarning": false,
@@ -19,7 +19,6 @@
   "gitlens.keymap": "chorded",
   "html.format.endWithNewline": true,
   "explorer.confirmDragAndDrop": false,
-  "files.autoSave": "afterDelay",
   "less.lint.duplicateProperties": "warning",
   "less.lint.float": "warning",
   "less.lint.idSelector": "warning",
@@ -39,5 +38,15 @@
   "prettier.stylelintIntegration": true,
   "workbench.colorTheme": "Material Theme High Contrast",
   "editor.fontSize": 14,
-  "workbench.colorCustomizations": {}
+  "workbench.colorCustomizations": {},
+  "prettier.useTabs": true,
+  "prettier.singleQuote": true,
+  "prettier.eslintIntegration": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.insertSpaces": false,
+  "files.insertFinalNewline": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.iconTheme": "eq-material-theme-icons",
+  "editor.renderControlCharacters": true,
+  "svg.preview.mode": "svg"
 }
