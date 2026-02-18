@@ -7,6 +7,7 @@ Info on setting up my workstation, apps, config, etc.
 - [iTerm2](https://www.iterm2.com/downloads.html)
 - [Homebrew](https://brew.sh/)
 - [VSCode](https://code.visualstudio.com/download)
+- [Claude Code](https://claude.com/product/claude-code)
 - [DBeaver](https://dbeaver.io/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [Postman](https://www.getpostman.com/downloads)
