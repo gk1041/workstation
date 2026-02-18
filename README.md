@@ -51,14 +51,16 @@ Info on setting up my workstation, apps, config, etc.
 ## Extensions
 
 ### Productivity Tools
+- [Claude Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
+- [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+  - Not just colorize CSV and TSV but you can also query these files in a SQL like language, pretty nifty if you don't have Excel.
+
+#### OLD
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Markdown to JIRA](https://marketplace.visualstudio.com/items?itemName=chintans98.markdown-jira)
-- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-- [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
-- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
-  - Not just colorize CSV and TSV but you can also query these files in a SQL like language, pretty nifty if you don't have Excel.
 - [Scope Bar](https://marketplace.visualstudio.com/items?itemName=amos402.scope-bar)
 
 ### Collaboration
