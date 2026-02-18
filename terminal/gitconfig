@@ -1,0 +1,12 @@
+[push]
+        autoSetupRemote = true
+        default = current
+[user]
+        name = Garrett Kocian
+        email = gk1041@gmail.com
+[core]
+        editor = vim
+[color]
+        ui = true
+[alias]
+        kick = commit --allow-empty -m 'kick pipe'
