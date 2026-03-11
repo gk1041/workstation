@@ -3,9 +3,6 @@
 # turn on colors
 export CLICOLOR=1
 
-# source SOCi rc
-source ~/.privaterc
-
 # functions
 getpid () {
   if [ $# -eq 1 ]
@@ -58,8 +55,7 @@ gfrc() {
 }
 
 # locations
-alias dev='cd ~/Desktop/dev'
-alias des='cd ~/Desktop'
+alias dev='cd ~/dev'
 alias sites='cd ~/Sites'
 
 # customize bash prefix

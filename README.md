@@ -3,32 +3,26 @@ Info on setting up my workstation, apps, config, etc.
 
 # Apps
 
-## Coding
+## Dev
 - [iTerm2](https://www.iterm2.com/downloads.html)
+- [Homebrew](https://brew.sh/)
 - [VSCode](https://code.visualstudio.com/download)
-- [PhpStorm](https://www.jetbrains.com/phpstorm/download/#section=mac)
+- [Claude Code](https://claude.com/product/claude-code)
 - [DBeaver](https://dbeaver.io/)
-- [Insomnia](https://insomnia.rest/graphql/)
-- [Docker Desktop](https://www.docker.com/products/docker-desktop) // v2.4.0.0
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [Postman](https://www.getpostman.com/downloads)
 
 ## Planning and UX
 - [Figma](https://www.figma.com/downloads/)
-- [Miro](https://miro.com/apps/)
-- [Boostnote](https://boostnote.io/)
-- [Remember the Milk](https://www.rememberthemilk.com/services/)
+- [Obsidian](https://obsidian.md/download)
 
 ## Productivity
 - [Clipy](https://clipy-app.com/)
-- [Skitch](https://evernote.com/products/skitch)
-- [GIPHY](https://giphy.com/apps/giphycapture)
 - [Spotify](https://www.spotify.com/us/)
 
 ## Biz Stuff
-- [Slack](https://slack.com/)
-- [Krisp](https://krisp.ai/)
 - [Chrome](https://www.google.com/chrome)
-- [Backup and Sync from Google](https://www.google.com/drive/download/)
+- [Google Drive](https://www.google.com/drive/download/)
 
 ---
 
@@ -40,7 +34,9 @@ Info on setting up my workstation, apps, config, etc.
     * [.bashrc](terminal/bashrc.sh)
     * [.zshrc](terminal/zshrc.sh)
     * [.vimrc](terminal/vimrc.sh)
- 3. Scrollable vim
+ 3. Update git config
+    * Paste contents of [gitconfig](terminal/gitconfig) by running `git config --global --edit`
+ 4. Scrollable vim in iTerm2
     * Preferences->Advanced->Mouse->Scroll wheel sends arrow keys when in an alternate screen mode
 
 ---
@@ -55,14 +51,16 @@ Info on setting up my workstation, apps, config, etc.
 ## Extensions
 
 ### Productivity Tools
+- [Claude Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
+- [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+  - Not just colorize CSV and TSV but you can also query these files in a SQL like language, pretty nifty if you don't have Excel.
+
+#### OLD
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Markdown to JIRA](https://marketplace.visualstudio.com/items?itemName=chintans98.markdown-jira)
-- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-- [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
-- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
-  - Not just colorize CSV and TSV but you can also query these files in a SQL like language, pretty nifty if you don't have Excel.
 - [Scope Bar](https://marketplace.visualstudio.com/items?itemName=amos402.scope-bar)
 
 ### Collaboration
